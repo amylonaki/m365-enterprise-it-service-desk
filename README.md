@@ -97,7 +97,7 @@ Employee receives final email notification
 
 ## Screenshots
 
-Project screenshots are available in the `/screenshots` folder.
+Project screenshots are available in the `/Screenshots` folder.
 
 ---
 
