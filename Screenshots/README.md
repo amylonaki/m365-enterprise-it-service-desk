@@ -2,7 +2,7 @@
 
 ## Microsoft Forms – Employee Request Form
 
-![Form Screenshot](Microsoft_form(1).png)
+![Form Screenshot](Microsoft_forms(1).png)
 
 ---
 
