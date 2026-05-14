@@ -15,3 +15,23 @@
 ## Microsoft Forms – Priority and Description
 
 ![Priority and Description](Microsoft_form(3).png)
+
+---
+
+## SharePoint List - IT Request database
+
+![Sharepoint list](sharepoint-list.png)
+
+---
+
+## Power Automate - Approval Flow
+
+![pwa flow](power-automate-flow.png)
+
+---
+
+## Employee Confirmation email
+
+![confirmation email](employee-confirmation-email.jpeg)
+
+---
