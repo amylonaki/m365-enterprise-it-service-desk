@@ -18,31 +18,31 @@
 
 ---
 
-## SharePoint List - IT Request database
+## SharePoint List - IT Request Database
 
 ![Sharepoint list](sharepoint-list.png)
 
 ---
 
-## Power Automate - Approval Flow
+## Power Automate - Approval Workflow
 
 ![pwa flow](power-automate-flow.png)
 
 ---
 
-## Employee Confirmation email
+## Employee Confirmation Email
 
 ![confirmation email](employee-confirmation-email.jpeg)
 
 ---
 
-## Manager Approval Request - Outlook
+## Manager Approval Request Email
 
 ![manager mail](approval-request.png)
 
 ---
 
-## Employee final email notification
+## Employee Final Status Notification
 
 ![employee final mail](employee-final-email-notification.jpeg)
 
