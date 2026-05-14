@@ -1,1 +1,2 @@
-Project Screenshots Folder.
+# Project Screenshots Folder
+
