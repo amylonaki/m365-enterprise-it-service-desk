@@ -35,3 +35,14 @@
 ![confirmation email](employee-confirmation-email.jpeg)
 
 ---
+
+## Manager Approval Request - Outlook
+
+![manager mail](approval-request.png)
+
+---
+
+## Employee final email notification
+
+![employee final mail](employee-final-email-notification.jpeg)
+
