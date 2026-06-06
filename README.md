@@ -1,5 +1,4 @@
-# m365 enterprise IT service desk workflow
-
+# Microsoft 365 Workflow Automation
 ## Overview
 
 This project demonstrates an automated IT request and approval workflow built using Microsoft Forms, SharePoint, Power Automate and Outlook.
